@@ -1,0 +1,22 @@
+
+body {
+	/* some what random amount of padding around us please */
+	margin: 5% 10%;
+}
+
+header {
+	/* big grey background */
+	background: #EEE;
+	/* little padding */
+	padding: 1% 2%;
+	/* and a bit of spacing under it */
+	margin-bottom: 2%;
+}
+
+.error {
+	/* make this error pretty obvious */
+	background: red;
+	color: white;
+	/* little padding */
+	padding: 1% 2%;
+}
